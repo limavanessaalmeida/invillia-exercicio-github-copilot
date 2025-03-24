@@ -1,4 +1,4 @@
-*.temp*
+python src/app.py*.temp*
 
 # Compiled source #
 ###################
